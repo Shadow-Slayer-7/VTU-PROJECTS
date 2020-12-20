@@ -1,2 +1,3 @@
-# VTU-PROJECTS
-Projects-For-VTU-COMPUTER-Science
+# These are the Projects done by me....
+Hope these projects help you in your life..
+
